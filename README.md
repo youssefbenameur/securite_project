@@ -5,6 +5,8 @@
 - Nom : youssef ben ameur
 - Classe : li3 tp4
 - Année : 2025 / 2026
+- Important:
+Je fais partie de l’équipe La3lakonda. Nous avons déjà gagné un défi à la Nuit d’Info. Malgré cela, j’ai quand même travaillé sur le projet, car je ne savais pas qu’on pouvait ne pas le réaliser.
 
 ---
 
